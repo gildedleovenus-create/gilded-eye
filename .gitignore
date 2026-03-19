@@ -1,0 +1,19 @@
+# Gilded Eye — .gitignore
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NOTE:
+# - BUFFER_CONFIG.md is intentionally kept in version control but must NEVER
+#   contain the actual BUFFER_API_KEY.
+# - BUFFER_API_KEY must be provided via environment variable only.
