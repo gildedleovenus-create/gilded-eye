@@ -1,15 +1,22 @@
-# The Gilded Eye — Messaging Log
+## 2026-03-23 Logging of Weekly Posts
 
-## 2026-03-19 — Inaugural batch
+- Date: 2026-03-23
+- Angles Used:
+  - Pain point
+  - Direct value + link
+  - Provocative statement
+  - Social proof
 
-1) Angle: Pain point (no product mention)
-   Text: "Most bad decisions don't come from lack of intelligence. They come from decisions that were never framed clearly in the first place. Circling the same choice for weeks is a framing problem, not an IQ problem. #decisionmaking"
+### TUESDAY (Pain point)
+Most founders and entrepreneurs know decision fatigue and analysis paralysis well. The mental exhaustion from too many choices and fear of wrong ones traps clarity. This is not a personal flaw. It's a systemic problem.
 
-2) Angle: Direct value (with link)
-   Text: "The Gilded Eye is not advice. It doesn’t tell you what to do. It forces you to slow down, surface every assumption, and see the tradeoffs you’re trying to ignore—until the decision becomes clear.\n\nhttps://gildedvenus.gumroad.com/l/lprdq"
+### WEDNESDAY (Direct value + link)
+The Gilded Eye slows decision fatigue by enforcing clarity under pressure. It’s not advice or reassurance—it’s a system that forces tradeoffs to surface and assumptions to be tested.
 
-3) Angle: Provocative statement (no link)
-   Text: "Urgency is not a reason. It is a symptom. If the only justification for a move is ‘we’re out of time,’ the decision has already been made poorly."
+https://gildedvenus.gumroad.com/l/lprdq
 
-4) Angle: Social proof (who it’s for)
-   Text: "If you find yourself asking six different people what to do with your product, you don’t need more advice. You need a system that makes you own your reasoning and live with the outcome. The Gilded Eye was built for that moment."
+### THURSDAY (Provocative statement)
+Urgency is not a reason. It’s a symptom. Chasing quick answers under pressure is how most poor decisions are made.
+
+### FRIDAY (Social proof)
+If you’re overwhelmed by opinions and second-guessing, The Gilded Eye helps founders own their reasoning—no noise, no distractions, only clarity.
