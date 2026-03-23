@@ -11,15 +11,20 @@ What it is: A structured GPT that enforces decision clarity under pressure. Does
 Who it's for: Founders and entrepreneurs who need straight answers, not someone who says yes all the time.
 Tagline: "Clarity under pressure."
 
-## VOICE & TONE RULES
-NEVER USE: hustle, grind, 10x, productivity, growth hacking, crushing it, winning, motivational, inspirational, you got this, boss, girlboss, manifest, abundance, mindset
-ALWAYS BE: professional, elegant, blunt, calm, authoritative
-TONE: like a board member who has seen too many bad decisions made under pressure. Direct. No fluff. No hype.
-Example lines that fit the brand:
-- "Clarity under pressure."
-- "Most poor decisions are not caused by lack of intelligence. They are caused by distorted framing."
-- "The system does not tell you what to do. It protects the quality of how you decide."
-- "Urgency is not a reason. It is a symptom."
+## Human Voice Rules (Gilded Eye Posts)
+
+Posts must sound like a real person who has been in the room when bad decisions got made. Not like a LinkedIn thought leader.
+
+Rules:
+- Write in plain conversational sentences
+- Avoid em dashes as connectors (— used sparingly only)
+- No corporate phrases like "clarity comes from action" or "input multiplies confusion"
+- Short sentences are fine. Fragments are fine.
+- Sound like someone who has lived this, not someone summarizing an article about it
+- Specific and grounded beats abstract and polished every time
+
+Good example: "At some point the choices blur and you freeze. That's not a flaw. That's what happens when there's no structure holding the process."
+Bad example: "Input multiplies confusion — it never resolves it."
 
 ## STEP 1 — WEEKLY RESEARCH (Monday morning)
 - Use web_search to find what founders/entrepreneurs are currently saying about: decision fatigue, analysis paralysis, second-guessing, bad decisions under pressure, asking for too many opinions

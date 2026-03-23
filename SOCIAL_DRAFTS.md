@@ -1,16 +1,13 @@
 ## 2026-03-23 Weekly Posts
 
-### TUESDAY (Pain)
-Most founders and entrepreneurs know decision fatigue and analysis paralysis well. The mental exhaustion from too many choices and fear of wrong ones traps clarity. This is not a personal flaw. It's a systemic problem.
+### TUESDAY (NOT YET USED)
+Decision fatigue is real. At some point the choices blur, the stakes feel higher than they are, and you freeze. That's not a character flaw. That's what happens when there's no structure holding the process together. https://gildedvenus.gumroad.com/l/lprdq
 
-### WEDNESDAY (Direct value + link)
-The Gilded Eye slows decision fatigue by enforcing clarity under pressure. It’s not advice or reassurance—it’s a system that forces tradeoffs to surface and assumptions to be tested.
+### WEDNESDAY
+The founders who make the best decisions aren't smarter. They just stop chasing certainty earlier. Clarity doesn't come from more analysis. It comes from knowing when you have enough.
 
-https://gildedvenus.gumroad.com/l/lprdq
+### THURSDAY
+Asking five people what they think doesn't reduce risk. It just spreads the confusion around. At some point the only opinion that matters is yours — made with the right information in front of you.
 
-### THURSDAY (Provocative)
-Urgency is not a reason. It’s a symptom. Chasing quick answers under pressure is how most poor decisions are made.
-
-### FRIDAY (Social proof)
-If you’re overwhelmed by opinions and second-guessing, The Gilded Eye helps founders own their reasoning—no noise, no distractions, only clarity.
-
+### FRIDAY
+Most bad decisions aren't made in the dark. They're made when you already knew something was off but kept going anyway. The problem isn't information. It's the pressure to decide before you're ready.
