@@ -16,3 +16,12 @@
 Founders and entrepreneurs express frustration with the paralysis that comes from excessive options, pressure to be perfect, and high stakes. They often describe it as a draining cycle of doubt and delayed action caused by a combination of mental fatigue, fear, and over-consultation.
 
 ---
+
+## Fresh Research Notes - Week of May 18, 2026
+
+### New Pain Points Identified
+- Founders report that decision paralysis increases during funding rounds and hiring surges
+- The "consulting everyone" pattern leads to decision debt — too many voices, no clarity
+- Missing deadlines due to over-analysis is a recurring theme in founder forums
+- Second-guessing after decisions made under pressure creates a cycle of doubt
+- The cost of waiting is often higher than the cost of a wrong decision

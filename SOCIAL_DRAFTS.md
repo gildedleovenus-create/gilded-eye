@@ -1,13 +1,13 @@
-## 2026-03-23 Weekly Posts
+## 2026-05-18 Weekly Posts
 
-### TUESDAY (NOT YET USED)
-Decision fatigue is real. At some point the choices blur, the stakes feel higher than they are, and you freeze. That's not a character flaw. That's what happens when there's no structure holding the process together. https://gildedvenus.gumroad.com/l/lprdq
+### TUESDAY
+Decision fatigue is real. Some weeks every choice feels heavy — hiring, funding, product direction. You're not burned out. You're making decisions without a system to offload the load. https://gildedvenus.gumroad.com/l/lprdq
 
 ### WEDNESDAY
-The founders who make the best decisions aren't smarter. They just stop chasing certainty earlier. Clarity doesn't come from more analysis. It comes from knowing when you have enough.
+The founders who move fastest aren't the ones with the most certainty. They're the ones who decided early that waiting costs more than being wrong. Speed is a structure problem, not a personality trait.
 
 ### THURSDAY
-Asking five people what they think doesn't reduce risk. It just spreads the confusion around. At some point the only opinion that matters is yours — made with the right information in front of you.
+You asked four people what they think. Three said no. You went ahead anyway. That's not courage. That's decision debt. The real move is making the call when you have clarity — not when you run out of patience.
 
 ### FRIDAY
-Most bad decisions aren't made in the dark. They're made when you already knew something was off but kept going anyway. The problem isn't information. It's the pressure to decide before you're ready.
+The worst decisions aren't made in the dark. They're made by people who knew something was off but decided while the pressure was up. Information doesn't save you. Structure does. https://gildedvenus.gumroad.com/l/lprdq
