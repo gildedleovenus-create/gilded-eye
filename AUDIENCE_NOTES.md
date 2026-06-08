@@ -1,27 +1,48 @@
-# Audience Notes - Monday Research on Decision Fatigue and Analysis Paralysis
+# GILDED EYE — AUDIENCE NOTES
 
-## Key Pain Points and Language Found in Recent Web Research
+Last updated: 2026-06-08
 
-- Decision fatigue is described as mental exhaustion from making too many choices, leading to deteriorated decision quality.
-- Analysis paralysis is caused by overthinking, fear of making the wrong choice, overwhelming options, and pressure from consequences.
-- Symptoms include stress, anxiety, mental drain, reduced concentration, and difficulty acting decisively.
-- Frequent second-guessing, seeking excessive opinions, and overanalyzing decisions contribute to feeling stuck.
-- High-pressure situations increase the risk of bad decisions and worsen cognitive performance.
-- Perfectionism and the need to make the "perfect choice" exacerbate paralysis.
-- Analysis paralysis leads to missed opportunities and slow progress, hurting individual and team dynamics.
-- Common language includes terms like "overthinking," "decision fatigue," "analysis paralysis," "mental exhaustion," "fear of consequences," and "too many options."
-- Platforms where these discussions happen include blogs on psychology, productivity, leadership, and tech management websites.
+## Pain Point Language (from research)
 
-## Summary
-Founders and entrepreneurs express frustration with the paralysis that comes from excessive options, pressure to be perfect, and high stakes. They often describe it as a draining cycle of doubt and delayed action caused by a combination of mental fatigue, fear, and over-consultation.
+- "decision fatigue" — founders making 50-100 decisions per day, every choice feels heavy
+- "analysis paralysis" — overthinking stops decisions, feeling stuck and overwhelmed
+- "second-guessing" — questioning decisions after already making them
+- "decision debt" — the accumulated cost of delayed or avoided decisions
+- "not a confidence issue, a systems issue" — newer framing (LinkedIn, Nov 2025)
+- "small hesitations accumulate" — the hire you didn't make, the launch you pushed, the call you delayed
 
----
+## Platforms Where They Talk
 
-## Fresh Research Notes - Week of May 18, 2026
+- Twitter/X (founders discussing in real-time)
+- Instagram (reels about business decision fatigue)
+- Medium (analysis paralysis strategies)
+- Reddit (founder communities)
+- Podcasts (ADHD and decision fatigue overlap)
 
-### New Pain Points Identified
-- Founders report that decision paralysis increases during funding rounds and hiring surges
-- The "consulting everyone" pattern leads to decision debt — too many voices, no clarity
-- Missing deadlines due to over-analysis is a recurring theme in founder forums
-- Second-guessing after decisions made under pressure creates a cycle of doubt
-- The cost of waiting is often higher than the cost of a wrong decision
+## Specific Phrases People Use
+
+- "waiting costs more than being wrong"
+- "speed is a structure problem, not a personality trait"
+- "decision debt" — delaying when clarity isn't there
+- "making decisions without a system to offload the load"
+- "the 24-36 hour rule" — sleeping on big decisions
+- "information doesn't save you, structure does"
+- "analysis paralysis is almost always a systems issue, not a confidence issue"
+
+## What Resonates
+
+- The observation that small decisions accumulate — not just big moments
+- The distinction between advice (multiplies) vs structure (simplifies)
+- Founders relate to making 50-100 decisions daily with no system
+- The provocative angle that speed is about structure, not certainty
+
+## 2026-06-08 Fresh Research
+
+- LinkedIn trending: "More information feels safer, but leads to analysis paralysis. Decision paralysis is almost always a systems issue, not a confidence issue."
+- LeadershipIQ (Mar 2026): "decisions get delayed or never made at all, often with costly consequences"
+- Understood.org (Feb 2026): "the exhausting cycle of second-guessing, decision fatigue"
+
+## Notes for This Week
+
+- Queue tweets for week of June 8, 2026 already drafted in SOCIAL_DRAFTS.md
+- No fresh tweets needed — use queued content

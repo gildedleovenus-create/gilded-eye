@@ -23,9 +23,9 @@ If you're overwhelmed by opinions and second-guessing, The Gilded Eye helps foun
 
 ---
 
-## 2026-05-18 Logging of Weekly Posts
+## 2026-05-25 Logging of Weekly Posts
 
-- Date: 2026-05-18
+- Date: 2026-05-25
 - Angles Used:
   - Pain point
   - Direct value + link
@@ -33,15 +33,59 @@ If you're overwhelmed by opinions and second-guessing, The Gilded Eye helps foun
   - Social proof
 
 ### TUESDAY (Pain point)
-Decision fatigue hits hardest during high-stakes weeks — hiring, funding, product pivots. The trap is treating it as burnout when it's really a system failure. Without a decision framework, every choice costs mental energy you can't spare.
+The choices won't stop coming. Hiring, funding, product, people. Each one feels heavy. Eventually you stop deciding entirely — not because you're stuck, but because nothing's holding the process. That's not burnout. That's the absence of structure.
 
 ### WEDNESDAY (Direct value + link)
-The Gilded Eye forces clarity under pressure. It's not motivation or advice — it's a structured process that makes tradeoffs explicit and assumptions testable before you commit.
-
-https://gildedvenus.gumroad.com/l/lprdq
+Doesn't give advice. Doesn't reassure you. What it does: slows your thinking down until the answer you already had becomes visible. Clarity under pressure. $29 — https://gildedvenus.gumroad.com/l/lprdq
 
 ### THURSDAY (Provocative statement)
-Getting five opinions doesn't reduce risk. It just spreads the confusion. The founders who move aren't smarter — they just stopped waiting for certainty they were never going to get.
+The founders who move fastest aren't the smartest. They're the ones who built a system so they could be wrong and still keep going.
 
 ### FRIDAY (Social proof)
-The worst decisions come from pressure, not ignorance. The Gilded Eye helps founders pause at the right moment and decide with clarity — not panic.
+This is for founders who've asked five people the same question and still don't trust the answer. Not because the advice was bad. Because advice is not structure.
+
+---
+
+## 2026-06-08 Logging of Weekly Posts
+
+- Date: 2026-06-08
+- Angles Used:
+  - Pain point
+  - Direct value + link
+  - Provocative statement
+  - Social proof
+
+### TUESDAY (Pain point)
+The worst decisions aren't the big ones. They're the small ones that didn't happen — the hire you didn't make, the launch you pushed, the call you delayed. None feel dramatic. All add up to something that does.
+
+### WEDNESDAY (Direct value + link)
+A decision system, not advice. It won't tell you what to do. It will slow your thinking down until the answer you already had becomes visible. Clarity under pressure. $29 — https://gildedvenus.gumroad.com/l/lprdq
+
+### THURSDAY (Provocative statement)
+Every founder makes decisions in a fog. The ones who don't lose sleep are the ones who built the structure to decide while confused and still be right.
+
+### FRIDAY (Social proof)
+You asked three people. Two said no. You did it anyway. That's not courage — that's decision debt. The founders who stay longest are the ones who built structure before certainty.
+
+---
+
+## 2026-06-01 Logging of Weekly Posts
+
+- Date: 2026-06-01
+- Angles Used:
+  - Pain point
+  - Direct value + link
+  - Provocative statement
+  - Social proof
+
+### TUESDAY (Pain point)
+Most founders think bad decisions come from big moments. Usually they come from small accumulation — the hesitation on hires, the delay on launches, the second-guess after you've already said no. None feel dramatic. All add up.
+
+### WEDNESDAY (Direct value + link)
+A structured GPT that enforces decision clarity under pressure. Doesn't give advice. Doesn't reassure. Slows your thinking until the answer you already had becomes visible. $29 — https://gildedvenus.gumroad.com/l/lprdq
+
+### THURSDAY (Provocative statement)
+Sleep on big decisions. The founders who swear by the 24-36 hour rule aren't lazy — they're refusing to decide while the brain is running on fumes. Clarity requires a rested mind.
+
+### FRIDAY (Social proof)
+You've asked three people the same question and got four different answers. That's not a wisdom problem. That's a structure problem. Advice multiplies. Structure simplifies.
