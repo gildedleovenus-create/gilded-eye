@@ -38,11 +38,32 @@ export BUFFER_API_KEY="your_buffer_api_key_here"
 
 - `profile_id`: `<TO_BE_FILLED>`
 
-Once you have `BUFFER_API_KEY` set, run a small helper script (to be added)
-that:
-- Calls `GET /profiles.json` with the Bearer token.
-- Finds the profile corresponding to the `gildedleovenus` alt Twitter account.
-- Writes the chosen `profile_id` back into this file.
+The helper script `post_to_buffer.py` (added 2026-10-26) resolves this
+automatically and does not require this field to be filled in.
 
-The posting script will then read `BUFFER_API_KEY` from the environment and
-`profile_id` from this file, and queue posts from `SOCIAL_DRAFTS.md`.
+## Helper script
+
+`post_to_buffer.py` (stdlib only, no third-party deps):
+
+```powershell
+python post_to_buffer.py --list        # print the live queue, no network calls
+python post_to_buffer.py --check       # verify BUFFER_API_KEY + resolve target profile
+python post_to_buffer.py --post --yes  # publish (EXTERNAL — needs Brianna's approval)
+```
+
+It reads queued drafts from `SOCIAL_DRAFTS.md`, resolves the target X profile
+(explicit `GOLDED_EYE_PROFILE_ID` env var first, then this file's
+`profile_id`, then auto-match on the `gildedleovenus` alt account), posts via
+`POST /updates/create.json`, then stamps the draft as `[POSTED]` and writes a
+line to `MESSAGING_LOG.md`.
+
+### Current status (2026-10-26)
+
+`BUFFER_API_KEY` is set in the environment but Buffer returns **HTTP 401
+Unauthorized**. The key is present and rejected, which means it is expired,
+revoked, or wrong. It needs to be replaced with a fresh key from Buffer's
+account settings. Until then `--post` cannot work. Nothing has been published
+since 2026-06-18.
+
+`BUFFER_CONFIG.md` must **not** be committed with a live key. Keep the key in
+the environment only.
